@@ -14,14 +14,11 @@ Education
 - Zhejiang University, M.S. in Mechanical Engineering, 09/2023 – 03/2026
 - South China University of Technology, B.Eng. in Robotics Engineering, 09/2019 – 06/2023
 
-Getting started
+Publication
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. Tian R, Cui M, Chen G. A neural-symbolic network for interpretable fault diagnosis of rolling element bearings based on temporal logic[J]. IEEE Transactions on Instrumentation and Measurement, 2024, 73: 1-14.
+2. Tian R, Mei B, Fei S, et al. An interpretable variational attention-weighted feature decoupling network for remaining useful life prediction of aero-engines under time-varying operating conditions[J]. Measurement Science and Technology, 2026, 37(1): 016105.
+3. 
 
 Site-wide configuration
 ------
