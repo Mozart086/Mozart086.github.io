@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Ruoyao Tian is currently a master’s student in the School of Mechanical Engineering at [Zhejiang University](http://me.zju.edu.cn/). She previously completed her undergraduate studies in Robotics Engineering at the Shien-Ming Wu School of Intelligent Engineering, [South China University of Technology](https://www2.scut.edu.cn/wusie/main.htm). Her main research interests include Intelligent Manufacturing, Quality Management, Interpretable Artificial Intelligence, and Deep Learning.
+Ruoyao Tian is currently a PhD student in the Department of Industrial and Systems Engineering at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/ise/). She previously completed her master studies in the School of Mechanical Engineering at [Zhejiang University](http://me.zju.edu.cn/), and completed her undergraduate studies in Robotics Engineering at the Shien-Ming Wu School of Intelligent Engineering, [South China University of Technology](https://www2.scut.edu.cn/wusie/main.htm). Her main research interests include Intelligent Manufacturing, Quality Management, Interpretable Artificial Intelligence, and Deep Learning.
 
 Education
 ======
+- The Hong Kong Polytechnic University, PhD, Industrial and Systems Engineering, 09/2026 – Present
 - Zhejiang University, M.S. in Mechanical Engineering, 09/2023 – 03/2026
 - South China University of Technology, B.Eng. in Robotics Engineering, 09/2019 – 06/2023
 
